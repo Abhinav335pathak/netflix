@@ -1,0 +1,81 @@
+Q1. (Text Widget) 
+You need to display "Welcome Student": 
+• Font size: 20  
+• Color: Blue  
+• Bold text  
+• Center aligned  
+Identify the widget and write code. 
+Q2. (Container) 
+Create a box with: 
+• Height: 100, Width: 100  
+• Background color: Green  
+• Border radius: 10  
+• Padding: 10  
+Identify the widget and write code. 
+Q3. (Image.network) 
+Display an image from URL: 
+• Fit: Cover  
+• Show error icon if image fails  
+Identify the widget and write code. 
+Q4. (CircleAvatar) 
+Create a circular profile image: 
+• Radius: 40  
+• Image from network  
+Identify the widget and write code. 
+Q5. (ListView) { by ListView.builder and ListView.seperated } 
+Create a scrollable list of 10 items dynamically 
+Identify the widget and write code. 
+Q6. (ListTile) 
+Create a list item with: 
+• Leading icon: Person  
+• Title: Name  
+• Subtitle: Email  
+• Trailing icon: Arrow  
+Identify the widget and write code. 
+Q7. (TabBar) 
+Create a tab layout with: 
+• 3 tabs: Home, Profile, Settings  
+• Each tab shows different content  
+Identify required widgets and write code. 
+Q8. (BottomNavigationBar) 
+Create bottom navigation with: 
+• 3 items: Home, Search, Profile  
+• Each has icon and label  
+Identify the widget and write code. 
+Q9. (Buttons) 
+Create a button: 
+• Text: "Submit"  
+• On click: print message  
+Identify the widget and write code. 
+Q10. (TextField) 
+Create input field: 
+• Label: Enter Name  
+• Outline border  
+Identify the widget and write code. 
+Q11. (Navigation) 
+Navigate from Screen A to Screen B on button click 
+Identify method and write code. 
+Q12. (Visibility) 
+Show text only when a boolean variable is true 
+Identify the widget and write code. 
+Q13. (StatelessWidget) 
+Create a screen that shows static text "Hello Flutter" 
+Identify widget type and write code. 
+Q14. (StatefulWidget)  
+Create a counter app: 
+• Button increments value  
+Identify widget type and write code. 
+Q15. (Column) 
+Arrange 3 text widgets vertically 
+Identify widget and write code. 
+Q16. (Row) 
+Arrange 3 icons horizontally with space between 
+Identify widget and write code. 
+Q17. (Animation) 
+Create a container: 
+• Changes size when button clicked  
+Identify animation widget and write code. 
+Q18. (GridView) 
+Display 6 items in grid: 
+• 2 columns  
+Identify widget and write code.
